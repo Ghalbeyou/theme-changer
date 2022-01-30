@@ -11,11 +11,10 @@ function start()
   light();
 }
 function light(){
- var body = document.getElementById('body');
- body.style = "color: black;background-color: white;";
+  var body = document.getElementById('theme');
+  body.style = "color: black;background-color: white;";
 }
-function dark()
-{
-var body = document.getElementById('body');
- body.style = "color: white;background-color: black;";
+function dark(){
+  var body = document.getElementById('theme');
+  body.style = "color: white;background-color: black;";
 }

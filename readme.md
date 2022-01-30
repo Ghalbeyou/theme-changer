@@ -5,7 +5,7 @@ Because some people cannot work with this,
 So i recommend you to use it for changing theme in
 Electron apps and saving the themes for new time!
 ### Getting Started
-First, download this respo by clicking **CODE** and then 
+First, download this respo by clicking **CODE** and then
 **Download ZIP** .
 Then, run this commands:
 ```bash
