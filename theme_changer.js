@@ -1,5 +1,5 @@
-const config = require('./theme.config')
-
+// const config = require('./theme.config')
+// The config is broken and doesnt needed.
 exports.change = function(){
   if(!localStorage.getItem('t')) return start();
   if(localStorage.getItem('t') == "2") return dark();
